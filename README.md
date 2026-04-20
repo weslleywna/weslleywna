@@ -1,57 +1,63 @@
-### Hi there 👋, I'm Weslley
-💼 I’m currently working with .NET Core and Angular
+<h1 align="center">Hi 👋, I'm Weslley</h1>
 
-🌱 I’m currently learning NodeJS, React and React Native
+<p align="center">
+  💼 Working with <b>.NET Core</b> & <b>Angular</b><br/>
+  🌱 Learning <b>Node.js</b>, <b>React</b> & <b>React Native</b>
+</p>
 
-<div width="100%" align="center">
-  <a href="https://github.com/weslleywna">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=weslleywna&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&title_color=00ff99&icon_color=00ff99&text_color=ffffff"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weslleywna&layout=compact&langs_count=16&theme=dark"/>
-</div>
-  
-***
-<div>
-  <img align="center" alt="dotnet-core" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"/> 
-  <img align="center" alt="dotnet" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg" /> 
-  <img align="center" alt="cpp" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-  <img align="center" alt="csharp" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg"/>
-  <img align="center" alt="NodeJS" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-  <img align="center" alt="Angular" width="40" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg"/>
-  <img align="center" alt="React" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"/>
-  <img align="center" alt="JS" width="40" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
-  <img align="center" alt="TS" width="40" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"/>
-  <img align="center" alt="html5" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"/>
-  <img align="center" alt="css3" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg"/> 
-  <img align="center" alt="sass" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-  <img align="center" alt="Jenkins" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" />  
-  <img align="center" alt="Docker" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
-  <img align="center" alt="Kubernetes" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" />   
-  <img align="center" alt="Azure" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg"/>
-  <img align="center" alt="aws" width="45" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"/>
-  <img align="center" alt="git" width="30" height="25" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/>
-  <img align="center" alt="Linux" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /> 
+---
+
+<div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=weslleywna&show_icons=true&theme=github_dark&title_color=00ff99&icon_color=00ff99&text_color=ffffff&hide_border=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weslleywna&layout=compact&langs_count=10&theme=github_dark&hide_border=true"/>
 </div>
 
-<!--
-**weslleywna/weslleywna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<h3 align="center">🛠️ Tech Stack</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<div align="center">
 
-### 🤝 Connect with me:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/>
 
-<a href="">
-  <img alt="LinkedIn" width="40" height="30" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg"/>
-</a>
-<a href="">
-  <img alt="Instagram" width="40" height="30" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg"/>
-</a>
--->
+<br/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
+
+<br/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40"/>
+
+<br/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="40"/>
+
+<br/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
+
+</div>
+
+---
+
+<h3 align="center">📫 Connect with me</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/weslleynascimentoaraujo">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40"/>
+  </a>
+</p>
